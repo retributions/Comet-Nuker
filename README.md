@@ -1,3 +1,3 @@
 # Comet-Nuker
 
-https://github.com/7qo
+https://github.com/nell1337
